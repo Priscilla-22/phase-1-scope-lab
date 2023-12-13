@@ -5,9 +5,9 @@
     "passes": 3,
     "pending": 0,
     "failures": 2,
-    "start": "2023-12-13T20:27:00.445Z",
-    "end": "2023-12-13T20:27:01.103Z",
-    "duration": 658
+    "start": "2023-12-13T21:04:24.545Z",
+    "end": "2023-12-13T21:04:25.207Z",
+    "duration": 662
   },
   "tests": [
     {
@@ -20,7 +20,7 @@
     {
       "title": "modifies the customerName variable",
       "fullTitle": "Fix the Scope upperCaseCustomerName() modifies the customerName variable",
-      "duration": 3,
+      "duration": 2,
       "currentRetry": 0,
       "err": {
         "message": "expected 'bob' to equal 'BOB'",
@@ -33,7 +33,7 @@
     {
       "title": "setBestCustomer",
       "fullTitle": "Fix the Scope setBestCustomer() setBestCustomer",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {
         "message": "expected 'maybe bob' to equal undefined",
@@ -45,7 +45,7 @@
     {
       "title": "overwrites the best customer",
       "fullTitle": "Fix the Scope overwriteBestCustomer() overwrites the best customer",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -62,7 +62,7 @@
     {
       "title": "modifies the customerName variable",
       "fullTitle": "Fix the Scope upperCaseCustomerName() modifies the customerName variable",
-      "duration": 3,
+      "duration": 2,
       "currentRetry": 0,
       "err": {
         "message": "expected 'bob' to equal 'BOB'",
@@ -75,7 +75,7 @@
     {
       "title": "setBestCustomer",
       "fullTitle": "Fix the Scope setBestCustomer() setBestCustomer",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {
         "message": "expected 'maybe bob' to equal undefined",
@@ -96,7 +96,7 @@
     {
       "title": "overwrites the best customer",
       "fullTitle": "Fix the Scope overwriteBestCustomer() overwrites the best customer",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
